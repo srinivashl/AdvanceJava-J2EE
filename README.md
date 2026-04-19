@@ -40,4 +40,6 @@
 
 5A COUNTRY_LIST_DEMO: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/5a.png
 
+5B TABBED_PANE_DEMO: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/5b.png
+
 
