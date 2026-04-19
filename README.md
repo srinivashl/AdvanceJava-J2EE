@@ -26,4 +26,9 @@
 3B PALINDROME_CHECK: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
 3B REMOVE_WHITESPACE: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
 
+3C CAPITALIZE_WORDS: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3c.png
+3C TRUNCATE_STRING: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3c.png
+3C NUMERIC_CHECK: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3c.png
+3C RANDOM_STRING: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3c.png
+3C COUNT_WORD: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3c.png
 
