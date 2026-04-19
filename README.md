@@ -42,4 +42,6 @@
 
 5B TABBED_PANE_DEMO: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/5b.png
 
+5C COUNTRY_CAPITAL_DEMO: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/5c.png
 
+5D COLOR_TABBED_PANE_DEMO: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/5d.png
