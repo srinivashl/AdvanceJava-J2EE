@@ -13,3 +13,5 @@
 1C INSERTEND_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c3.png
 1C DISPLAY_POSITION_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c4.png
 1C SWAP_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c5.png
+
+2A STRING_OPERATIONS: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/2a.png
