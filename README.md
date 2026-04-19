@@ -15,5 +15,8 @@
 1C SWAP_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c5.png
 
 2A STRING_OPERATIONS: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/2a.png
+
 2B PERFORMANCE_TEST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/2b.png
+
+3A STRING_FUNCTION: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3a.png
 
