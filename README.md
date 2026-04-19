@@ -20,3 +20,10 @@
 
 3A STRING_FUNCTION: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3a.png
 
+3B NULL_OR_EMPTY_CHECK: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
+3B OCCURRENCES: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
+3B REVERSE_STRING: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
+3B PALINDROME_CHECK: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
+3B REMOVE_WHITESPACE: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/3b.png
+
+
