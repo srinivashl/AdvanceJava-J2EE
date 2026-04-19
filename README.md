@@ -7,3 +7,9 @@
 1B SORT_COLOR: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1b3.png
 1B SUBLIST_COLOR: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1b4.png
 1B DELETE_NTH_ELEMENT: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1b5.png
+
+1C LINKEDLIST_ITERATOR: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c1.png
+1C REVERSE_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c2.png
+1C INSERTEND_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c3.png
+1C DISPLAY_POSITION_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c4.png
+1C SWAP_LINKEDLIST: https://github.com/srinivashl/AdvanceJava-J2EE/blob/main/1c5.png
