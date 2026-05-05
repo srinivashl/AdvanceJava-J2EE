@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Session Time Demo</title>
+</head>
+<body>
+
+<h2>Enter Details</h2>
+
+<form action="welcome.jsp" method="post">
+    Name: <input type="text" name="username" required /><br><br>
+    Session Expiry Time (minutes): 
+    <input type="text" name="time" required /><br><br>
+
+    <input type="submit" value="Submit" />
+</form>
+
+</body>
+</html>
